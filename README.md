@@ -29,7 +29,7 @@ Clone the GitHub repository and use Anaconda distribution of Python 3.
 
 <code:
 
-$ git clone https://..... .git
+$ git clone https://github.com/cristiandatum/DS_blogpost.git
 
 The code can be viewed and modified with Jupyter Notebooks.
 
