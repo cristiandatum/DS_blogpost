@@ -38,10 +38,11 @@ The code can be viewed and modified with Jupyter Notebooks.
 The data is contained in the
 - “Video_Games_Sales_as_at_22_Dec_2016.csv” contains data in CSV format
 
-- “DS_blogpost_10.06.19submission.ipynb” contains Jupyter Notebook
-- “DS_blogpost_10.06.19submission.ipyng.html” contains Jupyter Notebook in html
+- "DS_blogpost_submission10.05.19.ipynb" contains Jupyter Notebook
+- "DS_blogpost_submission10.05.19.ipynb" contains Jupyter Notebook in html
 - "README.md"
-- “Medium_blogpost_10.06.19.md” contains blogpost uploaded to Medium
+- The high level report was posted in Medium:
+https://medium.com/@cristian.alberch/best-sfw-videogames-and-yet-another-top-10-list-f8d62d3f6914
 
 ## Results
 
